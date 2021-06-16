@@ -6,4 +6,4 @@ Feature: Test Amazonsite
     Then click Kindle Under Digital Content and Devices Section
     Then click Kindle Under Kindle EReader Section
     Then click Buy Now button
-    Then verify User Authentication
+    Then Verify User Authentication label
